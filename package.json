@@ -1,0 +1,11 @@
+{
+  "name": "trade-scanner",
+  "version": "1.0.0",
+  "main": "scanner.js",
+  "scripts": {
+    "start": "node scanner.js"
+  },
+  "dependencies": {
+    "node-fetch": "2.6.9"
+  }
+}
